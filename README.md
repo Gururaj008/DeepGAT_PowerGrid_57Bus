@@ -44,8 +44,5 @@ This repository presents an end‑to‑end Graph Neural Network (GNN) pipeline f
      | **with_angle**| 16    | 3      | **0.917**     |
      | **with_imp**  | 16    | 3      | 0.833         |
 
-   - ![Best GAT Test Accuracy by Feature Set](images/best_test_accuracy.png)  
-     *Base* and *with_angle* both hit ~92 %, while adding impedance degrades performance.
-
 ---
 
